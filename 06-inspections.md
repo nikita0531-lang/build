@@ -1,8 +1,8 @@
 ---
-title: 6. Инспекции
+title: 06. Инспекции
 description: 
 published: true
-date: 2026-08-24T12:56:01.263Z
+date: 2026-08-24T12:59:56.047Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:41:02.459Z
