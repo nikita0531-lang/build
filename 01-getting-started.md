@@ -1,8 +1,8 @@
 ---
-title: 1. Начало работы
+title: 01. Начало работы
 description: 
 published: true
-date: 2026-08-24T12:48:57.714Z
+date: 2026-08-24T12:58:45.785Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:36:52.142Z
