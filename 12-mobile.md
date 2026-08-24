@@ -2,7 +2,7 @@
 title: 12. Мобильное приложение
 description: 
 published: true
-date: 2026-08-24T13:12:30.361Z
+date: 2026-08-24T14:26:14.888Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:46:31.533Z

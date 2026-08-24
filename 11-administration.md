@@ -2,7 +2,7 @@
 title: 11. Администрирование
 description: 
 published: true
-date: 2026-08-24T13:12:10.901Z
+date: 2026-08-24T14:26:13.834Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:45:54.453Z

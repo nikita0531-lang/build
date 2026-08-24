@@ -2,7 +2,7 @@
 title: 07. Работы
 description: 
 published: true
-date: 2026-08-24T13:10:03.095Z
+date: 2026-08-24T14:26:09.633Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:43:27.474Z

@@ -2,7 +2,7 @@
 title: 05. Предписания
 description: 
 published: true
-date: 2026-08-24T13:08:43.641Z
+date: 2026-08-24T14:26:07.526Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:40:32.093Z

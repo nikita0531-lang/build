@@ -2,12 +2,11 @@
 title: 01. Начало работы
 description: 
 published: true
-date: 2026-08-24T13:05:16.553Z
+date: 2026-08-24T14:26:04.298Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:36:52.142Z
 ---
-
 
 ## 1.1. Вход в систему
 

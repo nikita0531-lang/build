@@ -2,7 +2,7 @@
 title: 13. Сценарии работы
 description: 
 published: true
-date: 2026-08-24T13:12:58.082Z
+date: 2026-08-24T14:26:16.047Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:47:09.106Z

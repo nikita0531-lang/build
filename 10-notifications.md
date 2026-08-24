@@ -2,7 +2,7 @@
 title: 10. Профиль
 description: 
 published: true
-date: 2026-08-24T13:11:21.645Z
+date: 2026-08-24T14:26:12.745Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:45:19.466Z

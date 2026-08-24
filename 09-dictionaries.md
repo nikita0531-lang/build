@@ -2,7 +2,7 @@
 title: 09. Справочники
 description: 
 published: true
-date: 2026-08-24T13:11:05.371Z
+date: 2026-08-24T14:26:11.712Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:44:47.630Z

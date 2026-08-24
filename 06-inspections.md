@@ -2,7 +2,7 @@
 title: 06. Инспекции
 description: 
 published: true
-date: 2026-08-24T13:09:28.132Z
+date: 2026-08-24T14:26:08.601Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:41:02.459Z

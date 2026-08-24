@@ -2,7 +2,7 @@
 title: 08. Аналитика
 description: 
 published: true
-date: 2026-08-24T13:10:23.361Z
+date: 2026-08-24T14:26:10.592Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:43:52.097Z

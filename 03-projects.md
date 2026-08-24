@@ -2,7 +2,7 @@
 title: 03. Проекты
 description: 
 published: true
-date: 2026-08-24T13:07:40.478Z
+date: 2026-08-24T14:26:05.322Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:39:03.634Z
