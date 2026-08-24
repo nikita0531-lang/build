@@ -1,8 +1,8 @@
 ---
-title: 2. Интерфейс
+title: 02. Интерфейс
 description: 
 published: true
-date: 2026-08-24T12:53:37.648Z
+date: 2026-08-24T12:58:32.373Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:37:52.384Z
