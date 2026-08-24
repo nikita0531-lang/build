@@ -1,8 +1,8 @@
 ---
-title: 3. Проекты
+title: 03. Проекты
 description: 
 published: true
-date: 2026-08-24T12:54:03.564Z
+date: 2026-08-24T12:59:12.232Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:39:03.634Z
