@@ -1,8 +1,8 @@
 ---
-title: 5. Предписания
+title: 05. Предписания
 description: 
 published: true
-date: 2026-08-24T12:55:34.410Z
+date: 2026-08-24T12:59:42.664Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:40:32.093Z
