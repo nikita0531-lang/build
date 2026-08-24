@@ -2,7 +2,7 @@
 title: 08. Аналитика
 description: 
 published: true
-date: 2026-08-24T13:00:24.608Z
+date: 2026-08-24T13:10:16.054Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T12:43:52.097Z
@@ -76,4 +76,4 @@ dateCreated: 2026-08-24T12:43:52.097Z
 Это рабочий способ построить произвольный отчёт: отфильтруйте реестр,
 выгрузите и сведите в Excel.
 
-Дальше: [9. Справочники](/user-guide/09-dictionaries)
+Дальше: [9. Справочники](/en/09-dictionaries)
