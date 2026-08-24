@@ -2,7 +2,7 @@
 title: 15. Справочник прав
 description: 
 published: true
-date: 2026-08-24T13:03:45.848Z
+date: 2026-08-24T13:14:04.271Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T13:03:45.848Z
@@ -210,4 +210,4 @@ dateCreated: 2026-08-24T13:03:45.848Z
 
 ---
 
-[← К оглавлению](/user-guide)
+[← К оглавлению](/en/00-home)
