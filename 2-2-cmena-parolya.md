@@ -2,7 +2,7 @@
 title: 2.2. Cмена пароля
 description: 
 published: true
-date: 2026-08-29T13:12:29.245Z
+date: 2026-08-29T18:14:29.361Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-29T12:26:02.811Z
