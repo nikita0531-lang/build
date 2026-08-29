@@ -2,7 +2,7 @@
 title: 1. Введение
 description: 
 published: true
-date: 2026-08-29T13:05:49.420Z
+date: 2026-08-29T14:41:37.945Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-29T08:30:41.035Z
